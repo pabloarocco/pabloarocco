@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Pablo Andrés Rocco</h1>
-<h3 align="center">Desarrollador de frontend/Backend de Argentina al mundo</h3>
+<h3 align="center">Desarrollador de Frontend/Backend de Argentina al mundo</h3>
 
 ![](https://komarev.com/ghpvc/?username=pabloarocco)
 
